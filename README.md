@@ -56,6 +56,14 @@ The website also includes hover effects for navigation links, buttons, and cours
 
 ![Hover Effect](screenshots/hover-effect.png)
 
+
+##Challenges and Solutions
+I have got challenge in every step. i get syntax error first then i am getting confuse in css styling. I have low time to make this. I use mainly chatgpt for the syntax and some low time video for this.
+
+
+##AI Usage Disclosure
+I used ChatGPT as an AI assistant. It helps me in the syntaxes and some error finding . It assist me logically and checked my code after i get stocked.
+
 ## Key Concepts Learned
 
 ### 1. Semantic HTML
@@ -70,9 +78,4 @@ I used elements such as:
 <section>
 <footer>
 
-##Challenges and Solutions
-I have got challenge in every step. i get syntax error first then i am getting confuse in css styling. I have low time to make this. I use mainly chatgpt for the syntax and some low time video for this.
 
-
-##AI Usage Disclosure
-I used ChatGPT as an AI assistant. It helps me in the syntaxes and some error finding . It assist me logically and checked my code after i get stocked.
